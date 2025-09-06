@@ -1,6 +1,5 @@
 
 
-```markdown
 # Club Management System
 
 A comprehensive **Club Management System** built using **HTML, CSS, JavaScript, JDBC, JSP, MySQL, and Java**. The system allows club administrators to manage club activities, member registrations, event scheduling, and financial tracking through an intuitive web interface.
